@@ -1,0 +1,64 @@
+O cálculo do FTE refere-se à carga horária, seja diária ou semanal, dos
+funcionários de uma empresa que trabalham em tempo integral.
+
+Ex1: Se uma empresa tem carga horária de 8 horas diárias e 40 horas
+semanais (de segunda a sexta), entende-se que:
+
+1. Usando as horas diárias como parâmetro:
+   8 horas --> 1,0 FTE
+   4 horas (meio período) --> 0,5 FTE
+
+2. Usando as horas semanais como parâmetro:
+   40 horas semanais --> 1,0 FTE
+   20 horas semanais (meio período) --> 0,5 FTE
+
+Portanto, se um robô executa uma atividade a 1,0 FTE, significa que
+ele executou uma atividade na mesma quantidade de horas que um funcio-
+nário realizaria.
+
+Para calcularmos o ganho de produtividade do robô sobre o ser hu-
+mano, devemos calcular o Índice de Produtividade Relativa (ou Fa-
+tor de Eficiência):
+
+Produtividade Relativa = Tempo do ser humano/Tempo do robô
+Ex2: Um funcionário deseja automatizar uma atividade que ele reali-
+za em 25 minutos e desenvolveu um robô para executá-la. A máquina
+realizou a mesma atividade em 5 minutos. O Índice de Produtividade
+Relativa é calculado por:
+
+25 (minutos) / 5 (minutos) = 5 (Produtividade Relativa)
+
+Isso significa que o robô é 5x mais eficiente ao executar a mesma
+atividade
+
+Caso a intenção seja saber quantos por cento do tempo o robô demo-
+ra para realizar a atividade em relação ao ser humano, calcula-se:
+
+Tempo do robô/Tempo do ser humano
+5 (minutos) / 25 (minutos) = 0,2 (0,2 x 100 = 20%)
+Ou seja, o robô leva 20% do tempo para executar a mesma tarefa.
+
+Em casos cujo objetivo é saber o quanto de economia geraria caso um
+robô realizasse a mesma tarefa que um ser humano, primeiramente é ne-
+cessário saber o valor da hora daquela atividade e comparar.
+Nesse mesmo caso da atividade de 25 minutos, vamos supor que o funcio-
+nário receba 20 reais a hora:
+
+1 hora = 60 minutos
+20 reais/hora = 20/60 = 0,33 reais por minuto
+Ou seja, são 25 (minutos) x 0,33 reais = 8,25 reais para realizar
+a atividade
+
+Digamos que essa atividade seja repetida 10 vezes num dia de tra-
+balho. Então, seriam R$ 82,50 por dia, R$ 412,50 por semana e R$
+1650,00 por mês gastos com mão de obra em uma atividade que um ro-
+bô realizaria em 5 minutos.
+
+Economia Líquida = Custo Humano Total - Custo do robô
+Economia Líquida = 1650 - 0
+
+Nesse caso, levando-se em consideração que o robô não pesa no bol-
+so da empresa, haveria uma economia de 1650 reais mensais ao se au-
+tomatizar essa atividade e 4,16 horas disponíveis a mais para o fun-
+cionário diariamente e 83,2 horas disponíveis no mês (já que essa
+atividade dura 25 minutos e são repetidas 10x num dia).
